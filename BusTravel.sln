@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusTravel.BLL", "BusTravel.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusTravel.DAL", "BusTravel.DAL\BusTravel.DAL.csproj", "{06B94821-957D-4014-91F2-9B521324C037}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusTravel.ENT", "BusTravel.ENT\BusTravel.ENT.csproj", "{4202FF75-EFF5-483E-B721-E111EE089B7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusTravel.REP", "BusTravel.REP\BusTravel.REP.csproj", "{0AEF86AF-CAA6-4988-AF2B-11AE83260DBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{06B94821-957D-4014-91F2-9B521324C037}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06B94821-957D-4014-91F2-9B521324C037}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06B94821-957D-4014-91F2-9B521324C037}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4202FF75-EFF5-483E-B721-E111EE089B7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4202FF75-EFF5-483E-B721-E111EE089B7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4202FF75-EFF5-483E-B721-E111EE089B7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4202FF75-EFF5-483E-B721-E111EE089B7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AEF86AF-CAA6-4988-AF2B-11AE83260DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AEF86AF-CAA6-4988-AF2B-11AE83260DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AEF86AF-CAA6-4988-AF2B-11AE83260DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AEF86AF-CAA6-4988-AF2B-11AE83260DBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
