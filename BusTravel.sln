@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusTravel.UI", "BusTravel.UI\BusTravel.UI.csproj", "{F071ECE7-E5E2-4D0A-A70D-D74FD17BF826}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusTravel.BLL", "BusTravel.BLL\BusTravel.BLL.csproj", "{DDC2FF1A-108C-4683-9776-DA8A2477BF71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusTravel.DAL", "BusTravel.DAL\BusTravel.DAL.csproj", "{06B94821-957D-4014-91F2-9B521324C037}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F071ECE7-E5E2-4D0A-A70D-D74FD17BF826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F071ECE7-E5E2-4D0A-A70D-D74FD17BF826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F071ECE7-E5E2-4D0A-A70D-D74FD17BF826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F071ECE7-E5E2-4D0A-A70D-D74FD17BF826}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDC2FF1A-108C-4683-9776-DA8A2477BF71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC2FF1A-108C-4683-9776-DA8A2477BF71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC2FF1A-108C-4683-9776-DA8A2477BF71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC2FF1A-108C-4683-9776-DA8A2477BF71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06B94821-957D-4014-91F2-9B521324C037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06B94821-957D-4014-91F2-9B521324C037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06B94821-957D-4014-91F2-9B521324C037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06B94821-957D-4014-91F2-9B521324C037}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
